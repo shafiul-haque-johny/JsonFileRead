@@ -1,0 +1,19 @@
+{
+  "movies": [
+    {
+      "id": "m1",
+      "name": "Harry Potter",
+      "description": "Harry Potter is a film series based on the eponymous novels by British author J. K. Rowling."
+    },
+    {
+      "id": "m2",
+      "name": "The Lord of the Rings",
+      "description": "The Lord of the Rings is a series of three epic fantasy adventure films directed by Peter Jackson, based on the novel The Lord of the Rings by British author J. R. R. Tolkien."
+    },
+    {
+      "id": "m3",
+      "name": "Pirates of the Caribbean",
+      "description": "Pirates of the Caribbean is an American fantasy supernatural swashbuckler film series produced by Jerry Bruckheimer."
+    }
+  ]
+}
